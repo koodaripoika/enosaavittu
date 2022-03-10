@@ -13,8 +13,6 @@ session_start();
 <html lang="en">
 <head>
     <link rel="stylesheet" href="NAVIGATIO.css">
-    <link rel="stylesheet" href="stylesheet.css">
-    <link rel="stylesheet" href="container.css">
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -23,7 +21,7 @@ session_start();
 <body>
 <a href="logout.php">Kirjaudu ulos</a>
     <div class="navbar">
-        <a href="JAVATÖHÖILYT.html">Etusivu</a>
+        <a href="????">Etusivu</a>
         <div class="subnav">
           <button class="subnavbtn">Oma profiili<i class="fa fa-caret-down"></i></button>
           <div class="subnav-content">
