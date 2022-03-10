@@ -39,8 +39,8 @@ session_start();
         <div class="subnav">
           <button class="subnavbtn">Uudet pelit <i class="fa fa-caret-down"></i></button>
           <div class="subnav-content">
-            <a href="#link1">Alennus</a>
-            <a href="#link2">Kauppa</a>
+            <a href="#Linkki">Alennus</a>
+            <a href="#Linkki">Kauppa</a>
           </div>
         </div>
         <a href="#Oma kirjasto">Oma Kirjasto</a>
