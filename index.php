@@ -19,7 +19,6 @@ session_start();
     <title>Karlo Mattila</title>
 </head>
 <body>
-<a href="logout.php">Kirjaudu ulos</a>
     <div class="navbar">
         <a href="????">Etusivu</a>
         <div class="subnav">

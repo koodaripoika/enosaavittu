@@ -68,17 +68,21 @@ session_start();
 
 		padding: 10px;
 		width: 100px;
-		color: white;
-		background-color: lightblue;
+		color: black;
+		background-color: white;
 		border: none;
 	}
 
 	#box{
 
-		background-color: grey;
+		background-color: black;
 		margin: auto;
 		width: 300px;
 		padding: 20px;
+	}
+
+	body{
+		background-image: url("etusivu.jpg")
 	}
 
 	</style>

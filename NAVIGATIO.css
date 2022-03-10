@@ -1,14 +1,14 @@
 
 .navbar {
     overflow: hidden;
-    background-color: rgb(7, 5, 133);
+    background-color: rgb(4, 0, 255);
   }
   
  
   .navbar a {
     float: left;
     font-size: 16px;
-    color: rgb(7, 5, 133);
+    color: rgb(4, 0, 255);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -25,7 +25,7 @@
     font-size: 16px;
     border: none;
     outline: none;
-    color: rgb(7, 5, 133);
+    color: rgb(4, 0, 255);
     padding: 14px 16px;
     background-color: inherit;
     font-family: inherit;
@@ -34,7 +34,7 @@
   
 
   .navbar a:hover, .subnav:hover .subnavbtn {
-    background-color: rgb(7, 5, 133);
+    background-color: rgb(4, 0, 255);
   }
   
  
@@ -42,7 +42,7 @@
     display: none;
     position: absolute;
     left: 0;
-    background-color: rgb(7, 5, 133);
+    background-color: rgb(4, 0, 255);
     width: 100%;
     z-index: 1;
   }
